@@ -38,3 +38,8 @@ claude plugin install claude-hud
   }
 }
 ```
+
+### 3.code-review
+```bash
+claude plugin install code-review@claude-plugins-official
+```
