@@ -1,4 +1,4 @@
-# oh-my-skills
+# oh-my-claude-code
 
 ## Claude Code init
 ### 1. install lsp
