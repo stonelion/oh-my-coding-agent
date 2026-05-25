@@ -1,6 +1,16 @@
-# oh-my-claude-code
+# oh-my-coding-agent
 
-## Claude Code init
+## skills
+```
+npm install skills@latest -g
+
+skills add -g vercel-labs/skills@find-skills
+skills add -g github/awesome-copilot@git-commit
+skills add -g yizhiyanhua-ai/fireworks-tech-graph 
+skills add -g mattpocock/skills
+```
+
+## Claude Code
 ### 1. lsp
 ```bash
 brew install jdtls
@@ -37,9 +47,4 @@ claude plugin install claude-hud
     "showFileStats": false
   }
 }
-```
-
-### 3.code-review
-```bash
-claude plugin install code-review@claude-plugins-official
 ```
